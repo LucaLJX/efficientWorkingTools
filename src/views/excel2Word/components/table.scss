@@ -1,0 +1,22 @@
+.excelToolTable {
+  // 选项
+  .select-options {
+    margin-top: 10px;
+
+    
+    .select-file {
+
+    }
+    .select-options {
+      .el-form-item {
+        width: 250px;
+        float: left;
+      }
+    }
+  }
+
+  // 表格
+  .data-table {
+    margin-top: 10px;
+  }
+}

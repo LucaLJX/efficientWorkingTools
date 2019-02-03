@@ -1,0 +1,27 @@
+.excel2Word {
+  padding: 10px;
+
+  .el-button--primary {
+    color: #fff;
+    background-color: #ffaec5;
+    border-color: #ffaec5;
+  }
+  
+  .left-wrapper {
+    position: fixed;
+    width: 400px;
+    top: 25px;
+    left: 25px;
+    min-height: 600px;
+    border: 1px solid #e9eef6;
+    border-radius: 5px;
+    height: 600px;
+  }
+
+  .right-wrapper {
+    min-height: 1000px;
+    margin-left: 420px;
+    width: auto;
+    border: 1px solid greenyellow;
+  }
+}
